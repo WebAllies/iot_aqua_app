@@ -113,7 +113,7 @@ class _LoginPageState extends State<LoginPage> {
                   padding: const EdgeInsets.all(18),
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(18),
-                    border: Border.all(color: Colors.black12),
+                    border: Border.all(color: Color(0xFF2E7D32)),
                   ),
                   child: Column(
                     children: const [
@@ -127,7 +127,7 @@ class _LoginPageState extends State<LoginPage> {
                       Text(
                         "Sign in to monitor and manage your system",
                         textAlign: TextAlign.center,
-                        style: TextStyle(color: Colors.black54),
+                        style: TextStyle(color: Color(0xFF2E7D32)),
                       ),
                     ],
                   ),
@@ -140,7 +140,7 @@ class _LoginPageState extends State<LoginPage> {
                   padding: const EdgeInsets.all(18),
                   decoration: BoxDecoration(
                     borderRadius: BorderRadius.circular(18),
-                    border: Border.all(color: Colors.black12),
+                    border: Border.all(color: const Color(0xFF2E7D32)),
                   ),
                   child: Form(
                     key: _formKey,
