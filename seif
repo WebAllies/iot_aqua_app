@@ -1,1 +1,7 @@
-asdfadsfasdfasdf
+turn on/off pump
+float sensor fish tank     if fish tank water level drop valve must me open to adjust water level acordingly
+schedule fish tank feeding time using a valve
+iot sensor monitor reading 
+2 valve phup phdown adjust according to water acidity (phsensor) + 2 water level sensor alert if level drop 
+grow light
+display screen/PI
